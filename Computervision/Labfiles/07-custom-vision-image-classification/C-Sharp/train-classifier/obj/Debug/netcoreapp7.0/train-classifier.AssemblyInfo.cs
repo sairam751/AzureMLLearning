@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("train-classifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f569e76e82a378ffff5262c34dc8e24c30a7f6ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+965a6bfc5887a5607fdcc8c37e46fc64bdda05ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("train-classifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("train-classifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
